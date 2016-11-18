@@ -25,6 +25,8 @@
     "react-dom": "^15.4.0"
   },
   "dependencies": {
+    "react-redux": "^4.4.6",
+    "redux": "^3.6.0",
     "webpack-dev-server": "^1.16.2"
   }
 }
